@@ -41,6 +41,8 @@ public class StringUtil {
 
     }
 
+
+
                  // looking for  alone char //
 
     public static String  uniqueCharacters(String str) {

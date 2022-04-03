@@ -6,6 +6,7 @@ public class ArrayUtil {
 
 
 
+    
            // MIN number //
 
     public static int minNumber(int [] nums){
