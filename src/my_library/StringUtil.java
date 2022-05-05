@@ -7,7 +7,7 @@ import java.util.Locale;
 
 public class StringUtil {
 
-                      //     REVERSE   //
+                      //       REVERSE        //
 
 
     public static String revers(String str) {
@@ -19,14 +19,14 @@ public class StringUtil {
         return reversed;
     }
 
-                    //    FIX FORMAT  //
+                    //       FIX FORMAT     //
 
         public static String fixFormat(String str) {
             str = str.trim();
             return str.substring(0, 1).toUpperCase() + str.substring(1).toLowerCase(Locale.ROOT);
 
 
-    }                   // count char //
+    }                   //    count char    //
 
     public static int frequencyOfCharacter(String str, char letter){
 
@@ -43,7 +43,7 @@ public class StringUtil {
 
 
 
-                 // looking for  alone char //
+                 //     looking for  alone char        //
 
     public static String  uniqueCharacters(String str) {
 
