@@ -21,16 +21,3 @@ public class FindTheUnique {
     }
 }
 
-//    public static String uniqueChar(String word){
-//
-//        String uniqueChar = "";
-//
-//        for (int i = 0; i < word.length(); i++) {
-//
-//            if(!word.contains("" + word.charAt(i) + word.charAt(i))){
-//                uniqueChar +=  word.charAt(i);
-//            }
-//        }
-//        return uniqueChar ;
-//    }
-
